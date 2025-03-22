@@ -1,9 +1,9 @@
+import Texture from "@/pages/texture";
 
 function App() {
-
 	return (
 		<>
-			<div>hi</div>
+			<Texture />
 		</>
 	);
 }
